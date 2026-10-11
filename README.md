@@ -12,7 +12,11 @@ An interactive Excel analytics solution designed to evaluate, sales performance,
 This project analyses a superstore-style retail dataset  containing each order row(order date,ship date, quantity, price,discount etc)
 Final output is a one page interactive management dashboard that allow users  to investigate sales profitability, customer segment etc  
  Below are the some of question i had to answer before making the dashboard.  
- <img width="625" height="419" alt="Screenshot 2026-10-04 131251" src="https://github.com/user-attachments/assets/bf8ab548-1cbe-443d-b25f-6693760aa1ce" />
+ <img width="625" height="419" alt="Screenshot 2026-10-04 131251" src="https://github.com/user-attachments/assets/bf8ab548-1cbe-443d-b25f-6693760aa1ce" />  
+ 
+ ### Link to the project
+(https://github.com/RadiffKai/Sales-Performance-Data/blob/main/Dashboard%20complete.xlsx)  download the raw file to view it
+ 
 ## Data  
 Key fields: OrderID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Region, State, City, Category, Sub-Category, Product, Sales, Quantity, Discount, Profit  
 The dataset covers multiple years of retail transaction and multiple dimensions to analyze  
